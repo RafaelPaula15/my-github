@@ -1,9 +1,10 @@
 h1 {
     text-align: center;
     color: blueviolet;
+    font-size: 100px;
 }
 
 body {
-    background-color: purple;
+    background-color: green;
 }
 
